@@ -1,3 +1,9 @@
+.matplotlib
+.numba_cache
+mini_Mie/results/*.pdf
+mini_Mie/results/*.png
+mini_Mie/results/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
